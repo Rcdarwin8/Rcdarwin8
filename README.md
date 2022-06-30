@@ -1,6 +1,8 @@
 - Hi, I’m @Rcdarwin8
 
 - 🌱 I’m currently learning algos and webdev...
+      learning and working on coding sites like codeforces.
+      and mern stack for devlopment.
 - 💞️ I’m looking to collaborate on interesting projects and technology...
 
 <!---
