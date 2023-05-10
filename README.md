@@ -1,4 +1,4 @@
-- Hi, I’m @Rcdarwin8
+- Hi I am Rohan Chaudhary.
 
 - 🌱 I’m currently learning algos and webdev...
       learning and working on coding sites like codeforces.
