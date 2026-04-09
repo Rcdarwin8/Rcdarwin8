@@ -1,44 +1,105 @@
-# Hi there, I'm Rohan Chaudhary! 👋
+<div align="center">
 
-### Software Engineer | AI Enthusiast | Automation Expert
+# Rohan Chaudhary
 
-I am a passionate developer focused on building intelligent AI systems, robust test automation frameworks, and scalable backend applications. I enjoy bridging the gap between Artificial Intelligence and seamless software execution.
+**Software Engineer · AI Systems · Test Automation**
 
----
+*Building intelligent agents and automation frameworks that bridge the gap between AI and reliable software execution.*
 
-### 🛠️ Tech Stack & Tools
-*   **Languages:** Python, JavaScript
-*   **AI & Data Science:** Jupyter, Diffusion Models, AI Agents
-*   **Automation & Testing:** Playwright, Selenium, API Automation
-*   **Tools & Platforms:** Git, GitHub, Trello API
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohan-chaudharydarwin/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rohanue188087it@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Rcdarwin8)
 
----
-
-### 🚀 What I'm currently working on
-*   Fine-tuning diffusion models for generative AI (`diffusionFineTuning`)
-*   Building autonomous agents for the stock market (`StockMarketAgent`)
-*   Developing End-to-End Automation frameworks using Selenium and Playwright
+</div>
 
 ---
 
-### 📂 Project Portfolio 
+## About
 
-I have a diverse technical background spanning QA Automation, Software Development, and AI. Depending on the role you are recruiting for, feel free to explore my categorized projects below:
+I'm a programmer analyst specialising in **AI/ML systems** and **test automation**. My work sits at the intersection of generative AI, autonomous agents, and scalable QA infrastructure — building things that are both intelligent and dependable.
 
-#### 🧪 Test Automation & Quality Assurance
-> *Frameworks built for reliability, speed, and comprehensive coverage.*
-*   🔗 **[EcommerceAutomation](https://github.com/Rcdarwin8/EcommerceAutomation)**: End-to-End UI automation framework designed for complex E-commerce workflows.
-*   🔗 **[Playwright Testing](https://github.com/Rcdarwin8/Playwright)**: Modern web testing implementations utilizing Playwright for fast, reliable browser automation.
-*   🔗 **[API Automation & Trello](https://github.com/Rcdarwin8/TrelloManagement)**: Backend API test automation and management logic using the Trello REST API.
+Currently based in Lucknow, India. Open to remote and on-site roles in AI engineering, backend development, and automation.
 
-#### 🤖 Artificial Intelligence & Machine Learning
-> *Exploring Generative AI, autonomous agents, and model fine-tuning.*
-*   🔗 **[StockMarketAgent](https://github.com/Rcdarwin8/StockMarketAgent)**: An autonomous AI agent designed to analyze market trends and automate financial data processing.
-*   🔗 **[Diffusion Fine-Tuning](https://github.com/Rcdarwin8/diffusionFineTuning)**: Advanced Deep Learning project focused on fine-tuning Generative AI diffusion models.
 ---
 
-### 📫 Let's Connect!
-<p align="left">
-  <a href="https://www.linkedin.com/in/rohan-chaudharydarwin/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:rohanue188087it@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+## Tech
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**Languages & Core**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**AI & Machine Learning**
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Claude](https://img.shields.io/badge/Claude_API-CC785C?style=flat-square&logo=anthropic&logoColor=white)
+
+</td>
+<td valign="top" width="50%">
+
+**Automation & Testing**
+
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=postman&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello_API-0052CC?style=flat-square&logo=trello&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+---
+
+## Projects
+
+### 🤖 AI & Autonomous Agents
+
+**[ClaudeAgent](https://github.com/Rcdarwin8/ClaudeAgent)**
+> Multi-tool AI agent built on the Claude API. Demonstrates tool integration, agentic reasoning loops, and structured output handling.
+
+**[StockMarketAgent](https://github.com/Rcdarwin8/StockMarketAgent)**
+> Autonomous agent that analyses market trends and automates financial data processing. Combines LLM reasoning with real-time data pipelines.
+
+**[diffusionFineTuning](https://github.com/Rcdarwin8/diffusionFineTuning)**
+> Fine-tuning generative diffusion models for domain-specific image synthesis. Deep learning research with practical application focus.
+
+---
+
+### 🧪 Test Automation & QA
+
+**[EcommerceAutomation](https://github.com/Rcdarwin8/EcommerceAutomation)**
+> End-to-end Selenium automation framework for complex e-commerce workflows — cart, checkout, and account flows with robust selectors.
+
+**[Playwright](https://github.com/Rcdarwin8/Playwright)**
+> Modern browser automation suite using Playwright. Fast, reliable, cross-browser testing with async-first architecture.
+
+**[TrelloManagement](https://github.com/Rcdarwin8/TrelloManagement)**
+> REST API automation for Trello — board and card management with comprehensive CRUD coverage and response validation.
+
+---
+
+## Currently Building
+
+- Expanding **ClaudeAgent** with MCP server integrations and memory persistence
+- Exploring **multi-agent coordination** patterns for financial data analysis
+- Refining diffusion model fine-tuning pipelines for custom datasets
+
+---
+
+<div align="center">
+
+*Interested in collaborating or have a role in mind?*
+
+[![LinkedIn](https://img.shields.io/badge/Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohan-chaudharydarwin/)
+
+</div>
