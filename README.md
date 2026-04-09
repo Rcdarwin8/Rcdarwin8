@@ -15,8 +15,6 @@
 
 ## Stack
  
-<br>
- 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)&nbsp;
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)&nbsp;
@@ -28,63 +26,29 @@
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square&logoColor=white)&nbsp;
 ![Trello API](https://img.shields.io/badge/Trello_API-0052CC?style=flat-square&logo=trello&logoColor=white)
  
-<br>
- 
-<tr>
-<td width="25%" align="center"><sub><b>LANGUAGES</b></sub><br><br>Python · JavaScript</td>
-<td width="25%" align="center"><sub><b>AI / ML</b></sub><br><br>Diffusion Models · AI Agents · Claude API</td>
-<td width="25%" align="center"><sub><b>AUTOMATION</b></sub><br><br>Playwright · Selenium · API Automation</td>
-<td width="25%" align="center"><sub><b>TOOLS</b></sub><br><br>Git · GitHub · Trello API</td>
-</tr>
-
-<br>
- 
 ---
  
 ## Projects
- 
-<br>
- 
-<sub>ARTIFICIAL INTELLIGENCE & ML</sub>
-<br>
-<tr>
-<td width="30%" valign="top"><b><a href="https://github.com/Rcdarwin8/ClaudeAgent">ClaudeAgent</a></b></td>
-<td valign="top">Multi-tool AI agent built on the Claude API. Agentic reasoning loops, structured tool integration, and modular design.</td>
-</tr>
-<tr><td colspan="2"><img height="1" width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png"></td></tr>
-<tr>
-<td width="30%" valign="top"><b><a href="https://github.com/Rcdarwin8/StockMarketAgent">StockMarketAgent</a></b></td>
-<td valign="top">Autonomous agent for market trend analysis and financial data processing. LLM reasoning over real-time data.</td>
-</tr>
-<tr><td colspan="2"><img height="1" width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png"></td></tr>
-<tr>
-<td width="30%" valign="top"><b><a href="https://github.com/Rcdarwin8/diffusionFineTuning">diffusionFineTuning</a></b></td>
-<td valign="top">Fine-tuning generative diffusion models for domain-specific image synthesis. Deep learning research with applied focus.</td>
-</tr>
 
-<br><br>
+**`ARTIFICIAL INTELLIGENCE & ML`**
 
-<sub>TEST AUTOMATION & QA</sub>
+ [**ClaudeAgent**](https://github.com/Rcdarwin8/ClaudeAgent) | Multi-tool AI agent built on the Claude API. Agentic reasoning loops, structured tool integration, and modular design. |
  
-<tr>
-<td width="30%" valign="top"><b><a href="https://github.com/Rcdarwin8/EcommerceAutomation">EcommerceAutomation</a></b></td>
-<td valign="top">End-to-end Selenium framework for complex e-commerce workflows — cart, checkout, and account flows.</td>
-</tr>
-<tr><td colspan="2"><img height="1" width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png"></td></tr>
-<tr>
-<td width="30%" valign="top"><b><a href="https://github.com/Rcdarwin8/Playwright">Playwright</a></b></td>
-<td valign="top">Modern browser automation suite. Cross-browser, async-first, with emphasis on reliability and speed.</td>
-</tr>
-<tr><td colspan="2"><img height="1" width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png"></td></tr>
-<tr>
-<td width="30%" valign="top"><b><a href="https://github.com/Rcdarwin8/TrelloManagement">TrelloManagement</a></b></td>
-<td valign="top">REST API automation for Trello — board and card management with comprehensive CRUD and response validation.</td>
-</tr>
+ [**StockMarketAgent**](https://github.com/Rcdarwin8/StockMarketAgent) | Autonomous agent for market trend analysis and financial data processing. LLM reasoning over real-time data. |
  
+ [**diffusionFineTuning**](https://github.com/Rcdarwin8/diffusionFineTuning) | Fine-tuning generative diffusion models for domain-specific image synthesis. Deep learning research with applied focus. |
+
 <br>
+
+**`TEST AUTOMATION & QA`**
+
+ [**EcommerceAutomation**](https://github.com/Rcdarwin8/EcommerceAutomation) | End-to-end Selenium framework for complex e-commerce workflows — cart, checkout, and account flows. |
  
----
+ [**Playwright**](https://github.com/Rcdarwin8/Playwright) | Modern browser automation suite. Cross-browser, async-first, with emphasis on reliability and speed.  |
  
+ [**TrelloManagement**](https://github.com/Rcdarwin8/TrelloManagement) | REST API automation for Trello — board and card management with comprehensive CRUD and response validation. |
+ 
+--- 
 ## Currently Building
  
 - Expanding **ClaudeAgent** with MCP server integrations and memory persistence
