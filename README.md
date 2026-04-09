@@ -1,11 +1,35 @@
-- Hi I am Rohan Chaudhary.
+# Hi there, I'm Rohan Chaudhary! 👋
 
-- 🌱 I’m currently learning algos and webdev...
-      learning and working on coding sites like codeforces.
-      and mern stack for devlopment.
-- 💞️ I’m looking to collaborate on interesting projects and technology...
+### Software Engineer | AI Enthusiast | Automation Expert
 
-<!---
-Rcdarwin8/Rcdarwin8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a passionate developer focused on building intelligent AI systems, robust test automation frameworks, and scalable backend applications. I enjoy bridging the gap between Artificial Intelligence and seamless software execution.
+
+---
+
+### 🛠️ Tech Stack & Tools
+*   **Languages:** Python, JavaScript
+*   **AI & Data Science:** Jupyter, Diffusion Models, AI Agents
+*   **Automation & Testing:** Playwright, Selenium, API Automation
+*   **Tools & Platforms:** Git, GitHub, Trello API
+
+---
+
+### 🚀 What I'm currently working on
+*   Fine-tuning diffusion models for generative AI (`diffusionFineTuning`)
+*   Building autonomous agents for the stock market (`StockMarketAgent`)
+*   Developing End-to-End Automation frameworks using Selenium and Playwright
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rcdarwin8&show_icons=true&theme=radical" alt="Rohan's GitHub Stats" />
+</p>
+
+---
+
+### 📫 Let's Connect!
+<p align="left">
+  <a href="[Insert LinkedIn URL here]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:[Insert Email Here]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
