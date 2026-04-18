@@ -2,7 +2,7 @@
 
 # Rohan Chaudhary
 #### About
-**Software Engineer · AI Systems · Test Automation**
+** Software Tester · Software Engineer · AI Systems · Test Automation**
 
 *I'm a programmer analyst specialising in AI/ML systems and test automation. My work sits at the intersection of generative AI, autonomous agents, and scalable QA infrastructure — building things that are both intelligent and dependable.*
 
