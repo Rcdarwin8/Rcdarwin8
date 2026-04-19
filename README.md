@@ -38,13 +38,13 @@
 
  [**ClaudeAgent**](https://github.com/Rcdarwin8/ClaudeAgent) | Multi-tool AI agent built on the Claude API. Agentic reasoning loops, structured tool integration, and modular design. |
  
- [**StockMarketAgent**](https://github.com/Rcdarwin8/StockMarketAgent) | Autonomous agent for market trend analysis and financial data processing. LLM reasoning over real-time data. |
- 
  [**diffusionFineTuning**](https://github.com/Rcdarwin8/diffusionFineTuning) | Fine-tuning generative diffusion models for domain-specific image synthesis. Deep learning research with applied focus. |
 
 <br>
 
 **`TEST AUTOMATION & QA`**
+
+ [**StockMarketAgent**](https://github.com/Rcdarwin8/StockMarketAgent) | Autonomous agent for market trend analysis and financial data processing. LLM reasoning over real-time data. | 
 
  [**EcommerceAutomation**](https://github.com/Rcdarwin8/EcommerceAutomation) | End-to-end Selenium framework for complex e-commerce workflows — cart, checkout, and account flows. |
  
