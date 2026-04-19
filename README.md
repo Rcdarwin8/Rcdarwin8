@@ -53,13 +53,6 @@
  [**TrelloManagement**](https://github.com/Rcdarwin8/TrelloManagement) | REST API automation for Trello — board and card management with comprehensive CRUD and response validation. |
  
 --- 
-## Currently Building
- 
-- Expanding **ClaudeAgent** with MCP server integrations and memory persistence
-- Exploring **multi-agent coordination** patterns for financial data analysis
-- Refining diffusion model fine-tuning pipelines for custom datasets
- 
----
  
 <div align="center">
  
