@@ -40,7 +40,7 @@
  
  [**EcommerceAutomation**](https://github.com/Rcdarwin8/EcommerceAutomation) | End-to-end Selenium framework for complex e-commerce workflows — cart, checkout, and account flows. |
  
- [**Playwright**](https://github.com/Rcdarwin8/Playwright) | Modern browser automation suite. Cross-browser, async-first, with emphasis on reliability and speed.  |
+ [**Playwright**](https://github.com/Rcdarwin8/Playwright) |Playwright with AI Learning Repo.|
  
  [**TrelloManagement**](https://github.com/Rcdarwin8/TrelloManagement) | REST API automation for Trello — board and card management with comprehensive CRUD and response validation. |
  
