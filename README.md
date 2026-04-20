@@ -36,7 +36,7 @@
 
 **`TEST AUTOMATION & QA`**
 
- [**StockMarketAuditor**](https://github.com/Rcdarwin8/StockMarketAuditor)) | Java-based automation utility that scrapes dynamic stock market data from WebTables, performs real-time calculations, validates data accuracy, and generates beautifully formatted Excel audit reports. |
+ [**StockMarketAuditor**](https://github.com/Rcdarwin8/StockMarketAuditor) | Java-based automation utility that scrapes dynamic stock market data from WebTables, performs real-time calculations, validates data accuracy, and generates beautifully formatted Excel audit reports. |
  
  [**EcommerceAutomation**](https://github.com/Rcdarwin8/EcommerceAutomation) | End-to-end Selenium framework for complex e-commerce workflows — cart, checkout, and account flows. |
  
